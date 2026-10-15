@@ -33,11 +33,14 @@
 | Project | Category | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
 | 📱 **TruSkies (AirSafeIndia)** | Mobile & Admin Dashboard | `React Native` `Expo` `Next.js 16` `Supabase` `PostgreSQL` | [![Google Play](https://img.shields.io/badge/Google_Play-Live_App-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.aklover2203.AirSafeIndia) |
+| 🏎️ **Chill Drift** | 3D WebGL Racing Game | `Three.js` `WebGL` `Vite` `Simplex Noise` | [![Play Now](https://img.shields.io/badge/Play_Now-00C7B7?style=flat)](https://chill-drift.netlify.app/) |
+| 💳 **Credit Repair** | Financial Platform Demo | `React 19` `Vite` `GSAP` `Lenis` `Tailwind v4` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://creditrepairweb.netlify.app) |
+| 🏢 **Boliwala** | Real-Estate Auction Demo | `Next.js 16` `React 19` `Tailwind v4` `Lenis` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://boliwala.netlify.app/) |
+| ⚡ **DataAPI** | Data Extraction Platform | `Next.js 16` `React 19` `Framer Motion` `Tailwind v4` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://dataapilive1.netlify.app/) |
 | 🌐 **Disha Enterprises** | 3D WebGL Landing Page | `React.js` `Three.js` `WebGL` `Tailwind CSS` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://disha-enterprises.netlify.app/) |
 | 🛒 **Sakshat Store** | E-Commerce Platform | `Next.js (SSR)` `Tailwind CSS` `TypeScript` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://sakshatfoods.in/) |
 | 🏛️ **PHCET Research Lab** | Official College Portal | `Next.js` `TypeScript` `Tailwind CSS` | [![In Development](https://img.shields.io/badge/In_Development-Live_Preview-orange?style=flat)](https://phcet-researchlab.netlify.app/) |
 | ⚡ **streamline_dev** | Startup Showcase (60 FPS) | `Next.js` `React Three Fiber` `Custom Shaders` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-7C3AED?style=flat)](https://stream-line.dev/) |
-| 🏢 **Boliwala** | Real-Estate Auction Demo | `Next.js` `Tailwind CSS` `Motion UI` | [![Frontend Demo](https://img.shields.io/badge/Frontend_Demo-Visit-informational?style=flat)](https://boliwala.netlify.app/) |
 
 ---
 
