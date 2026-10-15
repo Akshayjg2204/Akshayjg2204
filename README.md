@@ -1,18 +1,19 @@
 <div align="center">
   <h1>Hi, I'm Akshay Gaikwad 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Mobile+Engineer;Interactive+3D+Web+Developer;Founder+%40+Streamline.dev;React+Native+%7C+Next.js+%7C+Three.js" alt="Typing SVG" />
+  <a href="https://stream-line.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Mobile+Architect;Building+60+FPS+Interactive+3D+WebGL;Architected+TruSkies+on+Google+Play;Founder+%26+Lead+Engineer+%40+Streamline.dev;Next.js+16+%7C+React+Native+%7C+Three.js" alt="Typing SVG" />
   </a>
   <br><br>
   <p align="center">
     📍 <b>Panvel, Maharashtra, India</b> &nbsp;•&nbsp;
     🚀 Founder & Lead Engineer at <b><a href="https://github.com/Streamline-dev0">Streamline.dev</a></b> &nbsp;•&nbsp;
-    🌐 <a href="https://stream-line.dev/">stream-line.dev</a>
+    🌐 <a href="https://stream-line.dev/"><b>stream-line.dev</b></a>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/akshayjgaikwad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:akshaygaikwad2203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://stream-line.dev/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+    <a href="https://www.linkedin.com/in/akshayjgaikwad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+    <a href="https://stream-line.dev/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;
+    <a href="mailto:akshaygaikwad2203@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+    <a href="https://github.com/Streamline-dev0"><img src="https://img.shields.io/badge/Organization-Streamline.dev-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Streamline.dev Org"/></a>
   </p>
 </div>
 
@@ -20,85 +21,75 @@
 
 ### ⚡ About Me
 
-- 💻 **Full Stack & Mobile Engineer** specializing in high-performance web applications, scalable mobile architectures, and interactive 3D experiences.
-- 📱 **Mobile Engineering:** Architected and published **TruSkies (AirSafeIndia)** to the Google Play Store using React Native & Expo Router.
-- 🎮 **3D Web Craftsman:** Building 60 FPS interactive 3D WebGL experiences with Three.js and React Three Fiber.
-- 🏛️ **College Portal Lead:** Currently architecting and building the official **PHCET Research & Innovation Lab** management portal.
-- 🚀 **Founder @ Streamline.dev:** Building client deliverables, e-commerce storefronts, and digital solutions.
+- 💻 **Full-Stack & Mobile Architecture:** Architecting end-to-end production web applications, scalable REST/real-time APIs, and native mobile client solutions.
+- 📱 **Published Mobile Apps:** Lead engineer of **TruSkies (AirSafeIndia)** live on the Google Play Store, engineered using React Native, Expo Router, Supabase, and PostgreSQL.
+- 🏎️ **Interactive 3D WebGL:** Building GPU-accelerated, 60 FPS interactive 3D Web experiences utilizing Three.js, React Three Fiber, Simplex Noise, and custom shaders.
+- 🏛️ **College Portal Lead:** Architecting and maintaining the official **PHCET Research & Innovation Lab** management portal.
+- 🚀 **Founder @ Streamline.dev:** Delivering high-speed enterprise websites, client platforms, and custom digital infrastructure.
 
 ---
 
-### 🚀 Featured Production & Client Deliverables
+### 🚀 Flagship & Production Showcases
 
-| Project | Category | Tech Stack | Status / Links |
-| :--- | :--- | :--- | :--- |
-| 📱 **TruSkies (AirSafeIndia)** | Mobile & Admin Dashboard | `React Native` `Expo` `Next.js 16` `Supabase` `PostgreSQL` | [![Google Play](https://img.shields.io/badge/Google_Play-Live_App-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.aklover2203.AirSafeIndia) |
-| 🏎️ **Chill Drift** | 3D WebGL Racing Game | `Three.js` `WebGL` `Vite` `Simplex Noise` | [![Play Now](https://img.shields.io/badge/Play_Now-00C7B7?style=flat)](https://chill-drift.netlify.app/) |
-| 💳 **Credit Repair** | Financial Platform Demo | `React 19` `Vite` `GSAP` `Lenis` `Tailwind v4` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://creditrepairweb.netlify.app) |
-| 🏢 **Boliwala** | Real-Estate Auction Demo | `Next.js 16` `React 19` `Tailwind v4` `Lenis` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://boliwala.netlify.app/) |
-| ⚡ **DataAPI** | Data Extraction Platform | `Next.js 16` `React 19` `Framer Motion` `Tailwind v4` | [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat)](https://dataapilive1.netlify.app/) |
-| 🌐 **Disha Enterprises** | 3D WebGL Landing Page | `React.js` `Three.js` `WebGL` `Tailwind CSS` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://disha-enterprises.netlify.app/) |
-| 🛒 **Sakshat Store** | E-Commerce Platform | `Next.js (SSR)` `Tailwind CSS` `TypeScript` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://sakshatfoods.in/) |
-| 🏛️ **PHCET Research Lab** | Official College Portal | `Next.js` `TypeScript` `Tailwind CSS` | [![In Development](https://img.shields.io/badge/In_Development-Live_Preview-orange?style=flat)](https://phcet-researchlab.netlify.app/) |
-| ⚡ **streamline_dev** | Startup Showcase (60 FPS) | `Next.js` `React Three Fiber` `Custom Shaders` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-7C3AED?style=flat)](https://stream-line.dev/) |
+| Project | Domain | Architecture & Stack | Live Delivery | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| 📱 **TruSkies (AirSafeIndia)** | Mobile Aviation & Admin | `React Native` `Expo Router` `Supabase` `PostgreSQL` | [![Google Play](https://img.shields.io/badge/Google_Play-Live_App-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.aklover2203.AirSafeIndia) | *Client Confidential* |
+| 🏎️ **Chill Drift** | 3D WebGL Racing Game | `Three.js` `WebGL` `Vite` `Simplex Noise` `Audio API` | [![Play Game](https://img.shields.io/badge/Play_Now-00C7B7?style=flat&logo=netlify&logoColor=white)](https://chill-drift.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-chilldrift--24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/chilldrift-) |
+| ⚡ **Streamline.dev** | 3D Creative Agency (60 FPS) | `Next.js 16` `React Three Fiber` `Tailwind CSS` `GLSL` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-7C3AED?style=flat)](https://stream-line.dev/) | *Production* |
+| 🏛️ **PHCET Research Lab** | Institutional Portal | `Next.js` `TypeScript` `Tailwind CSS` `Supabase` | [![Preview](https://img.shields.io/badge/Live_Preview-Visit-orange?style=flat)](https://phcet-researchlab.netlify.app/) | *Internal* |
+| 🛒 **Sakshat Store** | E-Commerce Platform | `Next.js (SSR)` `TypeScript` `Tailwind CSS` `Stripe` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://sakshatfoods.in/) | *Client Delivery* |
+| 🌐 **Disha Enterprises** | 3D WebGL Corporate Landing | `React.js` `Three.js` `WebGL` `Tailwind CSS` | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-blue?style=flat)](https://disha-enterprises.netlify.app/) | *Client Delivery* |
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Open-Source Systems & Interactive Demonstrations
 
-<p align="left">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Frontend & 3D Web:</b><br>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Mobile Development:</b><br>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Backend, Database & Cloud:</b><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</p>
+| Demonstration System | Specialization | Modern Tech Stack | Live Demo | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| 💳 **Credit Repair** | Financial Services Platform Demo | `React 19` `Vite 7` `GSAP` `Lenis` `Tailwind v4` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://creditrepairweb.netlify.app) | [![Repo](https://img.shields.io/badge/GitHub-credit__repair-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/credit_repair) |
+| 🏢 **Boliwala** | Real-Estate Auction Demo | `Next.js 16` `React 19` `Tailwind v4` `Lenis` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://boliwala.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-boliwala-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/boliwala) |
+| ⚡ **DataAPI Live** | Web Extraction & Analytics Demo | `Next.js 16` `React 19` `Framer Motion` `Tailwind v4` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://dataapilive1.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-dataapilive-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/dataapilive) |
+| 🏥 **Dental Care Pro** | Clinical Operations & Patient Management | `Next.js 14` `PostgreSQL` `Tailwind CSS` `Lucide` | *Clinical DB Architecture* | [![Repo](https://img.shields.io/badge/GitHub-dentalcarepro-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/dentalcarepro) |
+| 📱 **Viraj Telecom** | Electronics & Hardware Service Demo | `Next.js 16` `React 19` `Tailwind v4` `Lucide Icons` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://virajtelecom.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-viraj--telecom-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/viraj-telecom) |
+| 🎨 **Graphics Portfolio** | Industrial Graphics & Signage Demo | `Next.js 16` `React 19` `Tailwind v4` `OpenGraph` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://rjgraphics.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-graphics--website-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/graphics-website) |
+| 🏭 **Prajapati Steel** | Industrial Metals Manufacturing Demo | `Next.js 16` `React 19` `Tailwind v4` `Responsive UI` | [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://prajaparisteel.netlify.app/) | [![Repo](https://img.shields.io/badge/GitHub-prajapati--steel-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/prajapati-steel-website) |
+| 🤖 **AILMS** | AI Learning Platform (Microservices) | `React 19` `Express API` `FastAPI` `MongoDB` `Python` | *Microservices Setup* | [![Repo](https://img.shields.io/badge/GitHub-AILMS-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Akshayjg2204/AILMS) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🛠️ Technical Arsenal
+
+| Domain | Stack & Tooling |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend & 3D Web** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Mobile Engineering** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **DevOps & Infrastructure** | ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshayjg2204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayjg2204&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayjg2204&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Akshay's GitHub Stats" height="155" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayjg2204&layout=compact&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="155" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayjg2204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Akshayjg2204&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
+  <p align="center">
+    <b>Let's build something extraordinary together.</b><br>
+    💼 Available for High-Impact Roles, Architectural Consulting & Client Engineering.<br>
+    📫 Connect via <a href="mailto:akshaygaikwad2203@gmail.com"><b>akshaygaikwad2203@gmail.com</b></a> or <a href="https://www.linkedin.com/in/akshayjgaikwad/"><b>LinkedIn</b></a>.
+  </p>
   <sub>Engineered by Akshay Gaikwad • Founder @ <a href="https://github.com/Streamline-dev0">Streamline.dev</a></sub>
 </div>
