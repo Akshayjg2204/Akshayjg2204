@@ -17,16 +17,15 @@
   </p>
 </div>
 
-<br>
+---
 
-<!-- ========================================== -->
-<!-- 🚀 3D WEBGL & SYSTEMS TELEMETRY FLIGHT-DECK -->
-<!-- ========================================== -->
-<div align="center">
-  <img src="./assets/telemetry-hud.svg" width="860" alt="Streamline Telemetry Flight-Deck" />
-</div>
+### ⚡ About Me
 
-<br>
+- 💻 **Full-Stack & Mobile Architecture:** Architecting end-to-end production web applications, scalable REST/real-time APIs, and native mobile client solutions.
+- 📱 **Published Mobile Apps:** Lead engineer of **TruSkies (AirSafeIndia)** live on the Google Play Store, engineered using React Native, Expo Router, Supabase, and PostgreSQL.
+- 🏎️ **Interactive 3D WebGL:** Building GPU-accelerated, 60 FPS interactive 3D Web experiences utilizing Three.js, React Three Fiber, Simplex Noise, and custom shaders.
+- 🏛️ **College Portal Lead:** Architecting and maintaining the official **PHCET Research & Innovation Lab** management portal.
+- 🚀 **Founder @ Streamline.dev:** Delivering high-speed enterprise websites, client platforms, and custom digital infrastructure.
 
 ---
 
@@ -70,11 +69,18 @@
 
 ---
 
-<!-- ========================================== -->
-<!-- 📊 SELF-HOSTED CONTRIBUTION SPECTRUM MATRIX -->
-<!-- ========================================== -->
+### 📊 GitHub Activity & Metrics
+
 <div align="center">
-  <img src="./assets/activity-spectrum.svg" width="860" alt="Contribution Spectrum Matrix" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayjg2204&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Akshay's GitHub Stats" height="155" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayjg2204&layout=compact&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="155" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshayjg2204&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
