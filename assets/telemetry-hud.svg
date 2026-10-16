@@ -1,0 +1,81 @@
+<svg width="860" height="195" viewBox="0 0 860 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyber-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+    <linearGradient id="panel-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#070A13" stop-opacity="0.98" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .glow-cyan { filter: drop-shadow(0 0 4px rgba(14, 165, 233, 0.4)); }
+    .glow-purple { filter: drop-shadow(0 0 4px rgba(139, 92, 246, 0.4)); }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.96); }
+    }
+    .pulse-dot {
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-origin: 28px 26px;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="856" height="191" rx="10" fill="url(#panel-bg)" stroke="url(#cyber-border)" stroke-width="1.2" />
+
+  <!-- Corner Brackets -->
+  <path d="M 8 24 L 8 10 Q 8 8 10 8 L 24 8" stroke="#38BDF8" stroke-width="2" fill="none" />
+  <path d="M 852 24 L 852 10 Q 852 8 850 8 L 836 8" stroke="#A855F7" stroke-width="2" fill="none" />
+  <path d="M 8 171 L 8 185 Q 8 187 10 187 L 24 187" stroke="#38BDF8" stroke-width="2" fill="none" />
+  <path d="M 852 171 L 852 185 Q 852 187 850 187 L 836 187" stroke="#EC4899" stroke-width="2" fill="none" />
+
+  <!-- Top Status Bar -->
+  <circle cx="28" cy="26" r="4.5" fill="#10B981" class="pulse-dot" />
+  <text x="42" y="30" class="mono" font-size="11.5" font-weight="700" fill="#F8FAFC" letter-spacing="1.5">STREAMLINE TELEMETRY FLIGHT-DECK</text>
+  <text x="360" y="30" class="mono" font-size="10.5" fill="#64748B">//</text>
+  <text x="382" y="30" class="mono" font-size="10.5" font-weight="600" fill="#38BDF8">V-SYNC: 60 FPS [WEBGL ENGINE]</text>
+
+  <!-- Top Right Live Chip -->
+  <rect x="702" y="18" width="138" height="20" rx="10" fill="#0369A1" fill-opacity="0.25" stroke="#0284C7" stroke-width="0.8" />
+  <text x="771" y="31.5" class="mono" font-size="9.5" font-weight="700" fill="#38BDF8" text-anchor="middle" letter-spacing="1">STATUS: SHIPPING</text>
+
+  <!-- Divider Line -->
+  <line x1="24" y1="46" x2="836" y2="46" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Left Column: Fleet & Engines -->
+  <g transform="translate(26, 62)">
+    <rect x="0" y="0" width="390" height="116" rx="6" fill="#0F172A" fill-opacity="0.4" stroke="#1E293B" stroke-width="0.8" />
+    <text x="14" y="20" class="mono" font-size="10.5" font-weight="700" fill="#A855F7" letter-spacing="1">01 // PRODUCTION FLEET</text>
+    
+    <text x="14" y="44" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">📱 TruSkies (AirSafeIndia)</text>
+    <text x="175" y="44" class="mono" font-size="10.5" fill="#10B981">[Google Play Live App]</text>
+    <text x="14" y="60" class="sans" font-size="11" fill="#94A3B8">React Native • Expo Router • Supabase PostgreSQL</text>
+
+    <text x="14" y="84" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">🏎️ Chill Drift</text>
+    <text x="105" y="84" class="mono" font-size="10.5" fill="#38BDF8">[60 FPS Three.js Engine]</text>
+    <text x="14" y="100" class="sans" font-size="11" fill="#94A3B8">WebGL • Simplex Procedural Terrain • Web Audio</text>
+  </g>
+
+  <!-- Right Column: Mission Control -->
+  <g transform="translate(444, 62)">
+    <rect x="0" y="0" width="390" height="116" rx="6" fill="#0F172A" fill-opacity="0.4" stroke="#1E293B" stroke-width="0.8" />
+    <text x="14" y="20" class="mono" font-size="10.5" font-weight="700" fill="#0EA5E9" letter-spacing="1">02 // ARCHITECTURE MATRIX</text>
+    
+    <text x="14" y="44" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">⚡ Full-Stack &amp; Web Systems</text>
+    <text x="14" y="60" class="sans" font-size="11" fill="#94A3B8">Next.js 16 • React 19 • Tailwind v4 • TypeScript</text>
+
+    <text x="14" y="84" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">🚀 Streamline.dev</text>
+    <text x="135" y="84" class="mono" font-size="10.5" fill="#EC4899">[Agency Studio]</text>
+    <text x="14" y="100" class="sans" font-size="11" fill="#94A3B8">Panvel, Maharashtra, India • High-Performance Web</text>
+  </g>
+</svg>
